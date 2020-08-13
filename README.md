@@ -1,0 +1,2 @@
+# TesteSensores
+Android Studio 
